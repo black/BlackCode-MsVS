@@ -1,0 +1,22 @@
+c:\users\kuro\documents\visual studio 2015\Projects\CatView\CatView\bin\Debug\CatView.exe.config
+c:\users\kuro\documents\visual studio 2015\Projects\CatView\CatView\bin\Debug\CatView.exe
+c:\users\kuro\documents\visual studio 2015\Projects\CatView\CatView\bin\Debug\CatView.pdb
+c:\users\kuro\documents\visual studio 2015\Projects\CatView\CatView\obj\Debug\CatView.Form1.resources
+c:\users\kuro\documents\visual studio 2015\Projects\CatView\CatView\obj\Debug\CatView.Properties.Resources.resources
+c:\users\kuro\documents\visual studio 2015\Projects\CatView\CatView\obj\Debug\Gram.csproj.GenerateResource.Cache
+c:\users\kuro\documents\visual studio 2015\Projects\CatView\CatView\obj\Debug\CatView.exe
+c:\users\kuro\documents\visual studio 2015\Projects\CatView\CatView\obj\Debug\CatView.pdb
+C:\Users\Kuro\Documents\Visual Studio 2015\Projects\CatView\CatView\obj\Debug\Gram.csprojResolveAssemblyReference.cache
+C:\Users\Kuro\Desktop\GitHub\GRAM\GRAM\obj\Debug\Gram.Form1.resources
+C:\Users\Kuro\Desktop\GitHub\GRAM\GRAM\obj\Debug\CatView.Properties.Resources.resources
+C:\Users\Kuro\Desktop\GitHub\GRAM\GRAM\obj\Debug\Gram.csproj.GenerateResource.Cache
+C:\Users\Kuro\Desktop\GitHub\GRAM\GRAM\obj\Debug\CatView.exe
+C:\Users\Kuro\Desktop\GitHub\GRAM\GRAM\obj\Debug\CatView.pdb
+C:\Users\Kuro\Desktop\GitHub\GRAM\GRAM\bin\Debug\CatView.exe.config
+C:\Users\Kuro\Desktop\GitHub\GRAM\GRAM\bin\Debug\CatView.exe.manifest
+C:\Users\Kuro\Desktop\GitHub\GRAM\GRAM\bin\Debug\CatView.application
+C:\Users\Kuro\Desktop\GitHub\GRAM\GRAM\bin\Debug\CatView.exe
+C:\Users\Kuro\Desktop\GitHub\GRAM\GRAM\bin\Debug\CatView.pdb
+C:\Users\Kuro\Desktop\GitHub\GRAM\GRAM\obj\Debug\CatView.exe.manifest
+C:\Users\Kuro\Desktop\GitHub\GRAM\GRAM\obj\Debug\CatView.application
+C:\Users\Kuro\Desktop\GitHub\GRAM\GRAM\obj\Debug\Gram.csprojResolveAssemblyReference.cache

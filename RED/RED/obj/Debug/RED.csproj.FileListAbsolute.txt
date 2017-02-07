@@ -7,3 +7,6 @@ C:\Users\Kuro\Desktop\GitHub\RED\RED\obj\Debug\RED.Properties.Resources.resource
 C:\Users\Kuro\Desktop\GitHub\RED\RED\obj\Debug\RED.csproj.GenerateResource.Cache
 C:\Users\Kuro\Desktop\GitHub\RED\RED\obj\Debug\RED.exe
 C:\Users\Kuro\Desktop\GitHub\RED\RED\obj\Debug\RED.pdb
+C:\Users\Kuro\Desktop\GitHub\BlackCode-MsVS\RED\RED\bin\Debug\RED.exe.config
+C:\Users\Kuro\Desktop\GitHub\BlackCode-MsVS\RED\RED\obj\Debug\RED.exe
+C:\Users\Kuro\Desktop\GitHub\BlackCode-MsVS\RED\RED\obj\Debug\RED.pdb

@@ -7,3 +7,6 @@ C:\Users\Kuro\documents\visual studio 2015\Projects\ROBOT\ROBOT\obj\Debug\ROBOT.
 C:\Users\Kuro\documents\visual studio 2015\Projects\ROBOT\ROBOT\obj\Debug\ROBOT.exe
 C:\Users\Kuro\documents\visual studio 2015\Projects\ROBOT\ROBOT\obj\Debug\ROBOT.pdb
 C:\Users\Kuro\documents\visual studio 2015\Projects\ROBOT\ROBOT\obj\Debug\ROBOT.csprojResolveAssemblyReference.cache
+C:\Users\Kuro\Desktop\GitHub\BlackCode-MsVS\ROBOT\ROBOT\bin\Debug\ROBOT.exe.config
+C:\Users\Kuro\Desktop\GitHub\BlackCode-MsVS\ROBOT\ROBOT\obj\Debug\ROBOT.exe
+C:\Users\Kuro\Desktop\GitHub\BlackCode-MsVS\ROBOT\ROBOT\obj\Debug\ROBOT.pdb

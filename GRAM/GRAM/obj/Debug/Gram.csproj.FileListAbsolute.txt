@@ -20,3 +20,6 @@ C:\Users\Kuro\Desktop\GitHub\GRAM\GRAM\bin\Debug\CatView.pdb
 C:\Users\Kuro\Desktop\GitHub\GRAM\GRAM\obj\Debug\CatView.exe.manifest
 C:\Users\Kuro\Desktop\GitHub\GRAM\GRAM\obj\Debug\CatView.application
 C:\Users\Kuro\Desktop\GitHub\GRAM\GRAM\obj\Debug\Gram.csprojResolveAssemblyReference.cache
+C:\Users\Kuro\Desktop\GitHub\BlackCode-MsVS\GRAM\GRAM\bin\Debug\CatView.exe.config
+C:\Users\Kuro\Desktop\GitHub\BlackCode-MsVS\GRAM\GRAM\obj\Debug\CatView.exe
+C:\Users\Kuro\Desktop\GitHub\BlackCode-MsVS\GRAM\GRAM\obj\Debug\CatView.pdb

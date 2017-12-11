@@ -1,0 +1,9 @@
+c:\users\black\documents\visual studio 2015\Projects\Infinity\Infinity\bin\Debug\Infinity.exe.config
+c:\users\black\documents\visual studio 2015\Projects\Infinity\Infinity\bin\Debug\Infinity.exe
+c:\users\black\documents\visual studio 2015\Projects\Infinity\Infinity\bin\Debug\Infinity.pdb
+c:\users\black\documents\visual studio 2015\Projects\Infinity\Infinity\obj\Debug\Infinity.InfinityBox.resources
+c:\users\black\documents\visual studio 2015\Projects\Infinity\Infinity\obj\Debug\Infinity.Properties.Resources.resources
+c:\users\black\documents\visual studio 2015\Projects\Infinity\Infinity\obj\Debug\Infinity.csproj.GenerateResource.Cache
+c:\users\black\documents\visual studio 2015\Projects\Infinity\Infinity\obj\Debug\Infinity.exe
+c:\users\black\documents\visual studio 2015\Projects\Infinity\Infinity\obj\Debug\Infinity.pdb
+C:\Users\BLACK\Documents\Visual Studio 2015\Projects\Infinity\Infinity\obj\Debug\Infinity.csprojResolveAssemblyReference.cache

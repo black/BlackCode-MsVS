@@ -1,9 +1,0 @@
-C:\Users\Kuro\Desktop\GitHub\BlackCode-MsVS\TYPO\TYPO\bin\Debug\TYPO.exe.config
-C:\Users\Kuro\Desktop\GitHub\BlackCode-MsVS\TYPO\TYPO\bin\Debug\TYPO.exe
-C:\Users\Kuro\Desktop\GitHub\BlackCode-MsVS\TYPO\TYPO\bin\Debug\TYPO.pdb
-C:\Users\Kuro\Desktop\GitHub\BlackCode-MsVS\TYPO\TYPO\obj\Debug\TYPO.csprojResolveAssemblyReference.cache
-C:\Users\Kuro\Desktop\GitHub\BlackCode-MsVS\TYPO\TYPO\obj\Debug\TYPO.Properties.Resources.resources
-C:\Users\Kuro\Desktop\GitHub\BlackCode-MsVS\TYPO\TYPO\obj\Debug\TYPO.csproj.GenerateResource.Cache
-C:\Users\Kuro\Desktop\GitHub\BlackCode-MsVS\TYPO\TYPO\obj\Debug\TYPO.exe
-C:\Users\Kuro\Desktop\GitHub\BlackCode-MsVS\TYPO\TYPO\obj\Debug\TYPO.pdb
-C:\Users\Kuro\Desktop\GitHub\BlackCode-MsVS\TYPO\TYPO\obj\Debug\TYPO.Form1.resources

@@ -1,8 +1,0 @@
-c:\users\kuro\documents\visual studio 2015\Projects\CatView\CatView\bin\Debug\CatView.exe.config
-c:\users\kuro\documents\visual studio 2015\Projects\CatView\CatView\bin\Debug\CatView.exe
-c:\users\kuro\documents\visual studio 2015\Projects\CatView\CatView\bin\Debug\CatView.pdb
-c:\users\kuro\documents\visual studio 2015\Projects\CatView\CatView\obj\Debug\CatView.Form1.resources
-c:\users\kuro\documents\visual studio 2015\Projects\CatView\CatView\obj\Debug\CatView.Properties.Resources.resources
-c:\users\kuro\documents\visual studio 2015\Projects\CatView\CatView\obj\Debug\CatView.csproj.GenerateResource.Cache
-c:\users\kuro\documents\visual studio 2015\Projects\CatView\CatView\obj\Debug\CatView.exe
-c:\users\kuro\documents\visual studio 2015\Projects\CatView\CatView\obj\Debug\CatView.pdb

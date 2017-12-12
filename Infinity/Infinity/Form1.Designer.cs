@@ -42,20 +42,24 @@
             this.pictureBox.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox.Location = new System.Drawing.Point(0, 0);
             this.pictureBox.Name = "pictureBox";
-            this.pictureBox.Size = new System.Drawing.Size(884, 461);
+            this.pictureBox.Size = new System.Drawing.Size(1024, 550);
             this.pictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox.TabIndex = 0;
             this.pictureBox.TabStop = false;
             this.pictureBox.Click += new System.EventHandler(this.pictureBox_Click);
+            this.pictureBox.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pictureBox_MouseDown);
+            this.pictureBox.MouseMove += new System.Windows.Forms.MouseEventHandler(this.pictureBox_MouseMove);
+            this.pictureBox.MouseUp += new System.Windows.Forms.MouseEventHandler(this.pictureBox_MouseUp);
             // 
             // closeButton
             // 
             this.closeButton.BackColor = System.Drawing.Color.Transparent;
             this.closeButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.closeButton.Image = ((System.Drawing.Image)(resources.GetObject("closeButton.Image")));
-            this.closeButton.Location = new System.Drawing.Point(846, 8);
+            this.closeButton.Location = new System.Drawing.Point(986, 8);
             this.closeButton.Name = "closeButton";
             this.closeButton.Size = new System.Drawing.Size(30, 30);
             this.closeButton.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
@@ -68,7 +72,7 @@
             this.pictureInfo.BackColor = System.Drawing.Color.Transparent;
             this.pictureInfo.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureInfo.BackgroundImage")));
             this.pictureInfo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.pictureInfo.Location = new System.Drawing.Point(810, 8);
+            this.pictureInfo.Location = new System.Drawing.Point(948, 8);
             this.pictureInfo.Name = "pictureInfo";
             this.pictureInfo.Size = new System.Drawing.Size(30, 30);
             this.pictureInfo.TabIndex = 2;
@@ -81,7 +85,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(884, 461);
+            this.ClientSize = new System.Drawing.Size(1024, 550);
             this.ControlBox = false;
             this.Controls.Add(this.pictureInfo);
             this.Controls.Add(this.closeButton);

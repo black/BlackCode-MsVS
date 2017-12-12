@@ -11,18 +11,32 @@ namespace Infinity
         List<String> allImages = new List<String>();
         int k = 0;
         String filepath = null;
+        //Global variables;
+        private bool _dragging = false;
+        private Point _offset;
+        private Point _start_point = new Point(0, 0);
 
-        protected override CreateParams CreateParams
+        //protected override CreateParams CreateParams
+        //{
+        //    get
+        //    {
+        //        const int CS_DROPSHADOW = 0x00020000;
+        //        CreateParams cp = base.CreateParams;
+        //        cp.ClassStyle |= CS_DROPSHADOW;
+        //        return cp;
+        //    }
+        //}
+
+        protected override void WndProc(ref Message m)
         {
-            get
-            {
-                const int CS_DROPSHADOW = 0x00020000;
-                CreateParams cp = base.CreateParams;
-                cp.ClassStyle |= CS_DROPSHADOW;
-                return cp;
-            }
-
+            base.WndProc(ref m);
+            if (m.Msg == WM_NCHITTEST)
+                m.Result = (IntPtr)(HT_CAPTION);
         }
+
+        private const int WM_NCHITTEST = 0x84;
+        private const int HT_CLIENT = 0x1;
+        private const int HT_CAPTION = 0x2;
 
         public InfinityBox(String[] file)
         {
@@ -94,11 +108,6 @@ namespace Infinity
             if (me.Button == MouseButtons.Right)
             {
                 //do something here
-            }
-            else//left or middle click
-            {
-                //do something here
-
                 OpenFileDialog ofd = new OpenFileDialog();
                 // ofd.Filter = "jpg (*.jpg)|*.jpg|bmp (*bmp)|*.bmp|png (*.png)|*png|gif (*.gif)|*.gif";
 
@@ -116,6 +125,14 @@ namespace Infinity
                         pictureBox.BackgroundImage = null;
                     }
                 }
+            }
+            else//left or middle click
+            {
+                //do something here
+                //Form1_MouseDown();
+                //Form1_MouseMove();
+
+
             }
         }
 
@@ -161,5 +178,26 @@ namespace Infinity
         {
 
         }
+
+        private void pictureBox_MouseDown(object sender, MouseEventArgs e)
+        {
+            _dragging = true;  // _dragging is your variable flag
+            _start_point = new Point(e.X, e.Y);
+        }
+
+        private void pictureBox_MouseUp(object sender, MouseEventArgs e)
+        {
+            _dragging = false;
+        }
+
+        private void pictureBox_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (_dragging)
+            {
+                Point p = PointToScreen(e.Location);
+                Location = new Point(p.X - this._start_point.X, p.Y - this._start_point.Y);
+            }
+        }
+
     }
 }

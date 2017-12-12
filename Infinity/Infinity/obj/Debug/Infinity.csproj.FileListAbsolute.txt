@@ -7,3 +7,12 @@ c:\users\black\documents\visual studio 2015\Projects\Infinity\Infinity\obj\Debug
 c:\users\black\documents\visual studio 2015\Projects\Infinity\Infinity\obj\Debug\Infinity.exe
 c:\users\black\documents\visual studio 2015\Projects\Infinity\Infinity\obj\Debug\Infinity.pdb
 C:\Users\BLACK\Documents\Visual Studio 2015\Projects\Infinity\Infinity\obj\Debug\Infinity.csprojResolveAssemblyReference.cache
+C:\Users\BLACK\Desktop\GitHub\BlackCode-MsVS\Infinity\Infinity\bin\Debug\Infinity.exe.config
+C:\Users\BLACK\Desktop\GitHub\BlackCode-MsVS\Infinity\Infinity\obj\Debug\Infinity.exe
+C:\Users\BLACK\Desktop\GitHub\BlackCode-MsVS\Infinity\Infinity\obj\Debug\Infinity.pdb
+C:\Users\BLACK\Desktop\GitHub\BlackCode-MsVS\Infinity\Infinity\obj\Debug\Infinity.csprojResolveAssemblyReference.cache
+C:\Users\BLACK\Desktop\GitHub\BlackCode-MsVS\Infinity\Infinity\obj\Debug\Infinity.InfinityBox.resources
+C:\Users\BLACK\Desktop\GitHub\BlackCode-MsVS\Infinity\Infinity\obj\Debug\Infinity.Properties.Resources.resources
+C:\Users\BLACK\Desktop\GitHub\BlackCode-MsVS\Infinity\Infinity\obj\Debug\Infinity.csproj.GenerateResource.Cache
+C:\Users\BLACK\Desktop\GitHub\BlackCode-MsVS\Infinity\Infinity\bin\Debug\Infinity.exe
+C:\Users\BLACK\Desktop\GitHub\BlackCode-MsVS\Infinity\Infinity\bin\Debug\Infinity.pdb
